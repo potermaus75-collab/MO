@@ -1,0 +1,1622 @@
+[
+  {
+    "evolution_id": 1,
+    "from_form_id": 1,
+    "to_form_id": 8,
+    "min_level": 1,
+    "evolve_type": "HATCH",
+    "condition_logic": "ALL",
+    "notes": "부화환경:차가운 물"
+  },
+  {
+    "evolution_id": 2,
+    "from_form_id": 1,
+    "to_form_id": 9,
+    "min_level": 1,
+    "evolve_type": "HATCH",
+    "condition_logic": "ALL",
+    "notes": "부화환경:깊은 바다"
+  },
+  {
+    "evolution_id": 3,
+    "from_form_id": 1,
+    "to_form_id": 10,
+    "min_level": 1,
+    "evolve_type": "HATCH",
+    "condition_logic": "ALL",
+    "notes": "부화환경:폭포 근처"
+  },
+  {
+    "evolution_id": 4,
+    "from_form_id": 2,
+    "to_form_id": 11,
+    "min_level": 1,
+    "evolve_type": "HATCH",
+    "condition_logic": "ALL",
+    "notes": "부화환경:따뜻한 모닥불"
+  },
+  {
+    "evolution_id": 5,
+    "from_form_id": 2,
+    "to_form_id": 12,
+    "min_level": 1,
+    "evolve_type": "HATCH",
+    "condition_logic": "ALL",
+    "notes": "부화환경:고온의 화산지대"
+  },
+  {
+    "evolution_id": 6,
+    "from_form_id": 2,
+    "to_form_id": 13,
+    "min_level": 1,
+    "evolve_type": "HATCH",
+    "condition_logic": "ALL",
+    "notes": "부화환경:용암 근처"
+  },
+  {
+    "evolution_id": 7,
+    "from_form_id": 3,
+    "to_form_id": 14,
+    "min_level": 1,
+    "evolve_type": "HATCH",
+    "condition_logic": "ALL",
+    "notes": "부화환경:강한 해풍"
+  },
+  {
+    "evolution_id": 8,
+    "from_form_id": 3,
+    "to_form_id": 15,
+    "min_level": 1,
+    "evolve_type": "HATCH",
+    "condition_logic": "ALL",
+    "notes": "부화환경:산 정상"
+  },
+  {
+    "evolution_id": 9,
+    "from_form_id": 3,
+    "to_form_id": 16,
+    "min_level": 1,
+    "evolve_type": "HATCH",
+    "condition_logic": "ALL",
+    "notes": "부화환경:높은 절벽"
+  },
+  {
+    "evolution_id": 10,
+    "from_form_id": 4,
+    "to_form_id": 17,
+    "min_level": 1,
+    "evolve_type": "HATCH",
+    "condition_logic": "ALL",
+    "notes": "부화환경:숲의 그늘"
+  },
+  {
+    "evolution_id": 11,
+    "from_form_id": 4,
+    "to_form_id": 18,
+    "min_level": 1,
+    "evolve_type": "HATCH",
+    "condition_logic": "ALL",
+    "notes": "부화환경:거대한 나무 근처"
+  },
+  {
+    "evolution_id": 12,
+    "from_form_id": 4,
+    "to_form_id": 19,
+    "min_level": 1,
+    "evolve_type": "HATCH",
+    "condition_logic": "ALL",
+    "notes": "부화환경:풀 무성한 평원"
+  },
+  {
+    "evolution_id": 13,
+    "from_form_id": 5,
+    "to_form_id": 20,
+    "min_level": 1,
+    "evolve_type": "HATCH",
+    "condition_logic": "ALL",
+    "notes": "부화환경:뇌우 속"
+  },
+  {
+    "evolution_id": 14,
+    "from_form_id": 5,
+    "to_form_id": 21,
+    "min_level": 1,
+    "evolve_type": "HATCH",
+    "condition_logic": "ALL",
+    "notes": "부화환경:번개 맞은 나무 근처"
+  },
+  {
+    "evolution_id": 15,
+    "from_form_id": 5,
+    "to_form_id": 22,
+    "min_level": 1,
+    "evolve_type": "HATCH",
+    "condition_logic": "ALL",
+    "notes": "부화환경:전도성 광석 지대"
+  },
+  {
+    "evolution_id": 16,
+    "from_form_id": 5,
+    "to_form_id": 23,
+    "min_level": 1,
+    "evolve_type": "HATCH",
+    "condition_logic": "ALL",
+    "notes": "부화환경:높은 탑"
+  },
+  {
+    "evolution_id": 17,
+    "from_form_id": 6,
+    "to_form_id": 24,
+    "min_level": 1,
+    "evolve_type": "HATCH",
+    "condition_logic": "ALL",
+    "notes": "부화환경:맑은 햇빛 아래"
+  },
+  {
+    "evolution_id": 18,
+    "from_form_id": 6,
+    "to_form_id": 25,
+    "min_level": 1,
+    "evolve_type": "HATCH",
+    "condition_logic": "ALL",
+    "notes": "부화환경:성역의 제단"
+  },
+  {
+    "evolution_id": 19,
+    "from_form_id": 7,
+    "to_form_id": 26,
+    "min_level": 1,
+    "evolve_type": "HATCH",
+    "condition_logic": "ALL",
+    "notes": "부화환경:달 없는 밤"
+  },
+  {
+    "evolution_id": 20,
+    "from_form_id": 7,
+    "to_form_id": 27,
+    "min_level": 1,
+    "evolve_type": "HATCH",
+    "condition_logic": "ALL",
+    "notes": "부화환경:깊은 동굴"
+  },
+  {
+    "evolution_id": 21,
+    "from_form_id": 8,
+    "to_form_id": 28,
+    "min_level": 10,
+    "evolve_type": "TRAINING",
+    "condition_logic": "ALL",
+    "notes": "훈련성향:공격 훈련 중심"
+  },
+  {
+    "evolution_id": 22,
+    "from_form_id": 8,
+    "to_form_id": 29,
+    "min_level": 10,
+    "evolve_type": "TRAINING",
+    "condition_logic": "ALL",
+    "notes": "훈련성향:수호/지원 훈련 중심"
+  },
+  {
+    "evolution_id": 23,
+    "from_form_id": 9,
+    "to_form_id": 30,
+    "min_level": 10,
+    "evolve_type": "TRAINING",
+    "condition_logic": "ALL",
+    "notes": "훈련성향:공격 훈련 중심"
+  },
+  {
+    "evolution_id": 24,
+    "from_form_id": 9,
+    "to_form_id": 31,
+    "min_level": 10,
+    "evolve_type": "TRAINING",
+    "condition_logic": "ALL",
+    "notes": "훈련성향:수호/지원 훈련 중심"
+  },
+  {
+    "evolution_id": 25,
+    "from_form_id": 10,
+    "to_form_id": 32,
+    "min_level": 10,
+    "evolve_type": "TRAINING",
+    "condition_logic": "ALL",
+    "notes": "훈련성향:공격 훈련 중심"
+  },
+  {
+    "evolution_id": 26,
+    "from_form_id": 10,
+    "to_form_id": 33,
+    "min_level": 10,
+    "evolve_type": "TRAINING",
+    "condition_logic": "ALL",
+    "notes": "훈련성향:수호/지원 훈련 중심"
+  },
+  {
+    "evolution_id": 27,
+    "from_form_id": 11,
+    "to_form_id": 34,
+    "min_level": 10,
+    "evolve_type": "TRAINING",
+    "condition_logic": "ALL",
+    "notes": "훈련성향:공격 훈련 중심"
+  },
+  {
+    "evolution_id": 28,
+    "from_form_id": 11,
+    "to_form_id": 35,
+    "min_level": 10,
+    "evolve_type": "TRAINING",
+    "condition_logic": "ALL",
+    "notes": "훈련성향:수호/지원 훈련 중심"
+  },
+  {
+    "evolution_id": 29,
+    "from_form_id": 12,
+    "to_form_id": 36,
+    "min_level": 10,
+    "evolve_type": "TRAINING",
+    "condition_logic": "ALL",
+    "notes": "훈련성향:공격 훈련 중심"
+  },
+  {
+    "evolution_id": 30,
+    "from_form_id": 12,
+    "to_form_id": 37,
+    "min_level": 10,
+    "evolve_type": "TRAINING",
+    "condition_logic": "ALL",
+    "notes": "훈련성향:수호/지원 훈련 중심"
+  },
+  {
+    "evolution_id": 31,
+    "from_form_id": 13,
+    "to_form_id": 38,
+    "min_level": 10,
+    "evolve_type": "TRAINING",
+    "condition_logic": "ALL",
+    "notes": "훈련성향:공격 훈련 중심"
+  },
+  {
+    "evolution_id": 32,
+    "from_form_id": 13,
+    "to_form_id": 39,
+    "min_level": 10,
+    "evolve_type": "TRAINING",
+    "condition_logic": "ALL",
+    "notes": "훈련성향:수호/지원 훈련 중심"
+  },
+  {
+    "evolution_id": 33,
+    "from_form_id": 14,
+    "to_form_id": 40,
+    "min_level": 10,
+    "evolve_type": "TRAINING",
+    "condition_logic": "ALL",
+    "notes": "훈련성향:공격 훈련 중심"
+  },
+  {
+    "evolution_id": 34,
+    "from_form_id": 14,
+    "to_form_id": 41,
+    "min_level": 10,
+    "evolve_type": "TRAINING",
+    "condition_logic": "ALL",
+    "notes": "훈련성향:수호/지원 훈련 중심"
+  },
+  {
+    "evolution_id": 35,
+    "from_form_id": 15,
+    "to_form_id": 42,
+    "min_level": 10,
+    "evolve_type": "TRAINING",
+    "condition_logic": "ALL",
+    "notes": "훈련성향:공격 훈련 중심"
+  },
+  {
+    "evolution_id": 36,
+    "from_form_id": 15,
+    "to_form_id": 43,
+    "min_level": 10,
+    "evolve_type": "TRAINING",
+    "condition_logic": "ALL",
+    "notes": "훈련성향:수호/지원 훈련 중심"
+  },
+  {
+    "evolution_id": 37,
+    "from_form_id": 16,
+    "to_form_id": 44,
+    "min_level": 10,
+    "evolve_type": "TRAINING",
+    "condition_logic": "ALL",
+    "notes": "훈련성향:공격 훈련 중심"
+  },
+  {
+    "evolution_id": 38,
+    "from_form_id": 16,
+    "to_form_id": 45,
+    "min_level": 10,
+    "evolve_type": "TRAINING",
+    "condition_logic": "ALL",
+    "notes": "훈련성향:수호/지원 훈련 중심"
+  },
+  {
+    "evolution_id": 39,
+    "from_form_id": 17,
+    "to_form_id": 46,
+    "min_level": 10,
+    "evolve_type": "TRAINING",
+    "condition_logic": "ALL",
+    "notes": "훈련성향:공격 훈련 중심"
+  },
+  {
+    "evolution_id": 40,
+    "from_form_id": 17,
+    "to_form_id": 47,
+    "min_level": 10,
+    "evolve_type": "TRAINING",
+    "condition_logic": "ALL",
+    "notes": "훈련성향:수호/지원 훈련 중심"
+  },
+  {
+    "evolution_id": 41,
+    "from_form_id": 18,
+    "to_form_id": 48,
+    "min_level": 10,
+    "evolve_type": "TRAINING",
+    "condition_logic": "ALL",
+    "notes": "훈련성향:공격 훈련 중심"
+  },
+  {
+    "evolution_id": 42,
+    "from_form_id": 18,
+    "to_form_id": 49,
+    "min_level": 10,
+    "evolve_type": "TRAINING",
+    "condition_logic": "ALL",
+    "notes": "훈련성향:수호/지원 훈련 중심"
+  },
+  {
+    "evolution_id": 43,
+    "from_form_id": 19,
+    "to_form_id": 50,
+    "min_level": 10,
+    "evolve_type": "TRAINING",
+    "condition_logic": "ALL",
+    "notes": "훈련성향:공격 훈련 중심"
+  },
+  {
+    "evolution_id": 44,
+    "from_form_id": 19,
+    "to_form_id": 51,
+    "min_level": 10,
+    "evolve_type": "TRAINING",
+    "condition_logic": "ALL",
+    "notes": "훈련성향:수호/지원 훈련 중심"
+  },
+  {
+    "evolution_id": 45,
+    "from_form_id": 20,
+    "to_form_id": 52,
+    "min_level": 10,
+    "evolve_type": "TRAINING",
+    "condition_logic": "ALL",
+    "notes": "훈련성향:공격 훈련 중심"
+  },
+  {
+    "evolution_id": 46,
+    "from_form_id": 20,
+    "to_form_id": 53,
+    "min_level": 10,
+    "evolve_type": "TRAINING",
+    "condition_logic": "ALL",
+    "notes": "훈련성향:수호/지원 훈련 중심"
+  },
+  {
+    "evolution_id": 47,
+    "from_form_id": 21,
+    "to_form_id": 54,
+    "min_level": 10,
+    "evolve_type": "TRAINING",
+    "condition_logic": "ALL",
+    "notes": "훈련성향:공격 훈련 중심"
+  },
+  {
+    "evolution_id": 48,
+    "from_form_id": 21,
+    "to_form_id": 55,
+    "min_level": 10,
+    "evolve_type": "TRAINING",
+    "condition_logic": "ALL",
+    "notes": "훈련성향:수호/지원 훈련 중심"
+  },
+  {
+    "evolution_id": 49,
+    "from_form_id": 22,
+    "to_form_id": 56,
+    "min_level": 10,
+    "evolve_type": "TRAINING",
+    "condition_logic": "ALL",
+    "notes": "훈련성향:공격 훈련 중심"
+  },
+  {
+    "evolution_id": 50,
+    "from_form_id": 22,
+    "to_form_id": 57,
+    "min_level": 10,
+    "evolve_type": "TRAINING",
+    "condition_logic": "ALL",
+    "notes": "훈련성향:수호/지원 훈련 중심"
+  },
+  {
+    "evolution_id": 51,
+    "from_form_id": 23,
+    "to_form_id": 58,
+    "min_level": 10,
+    "evolve_type": "TRAINING",
+    "condition_logic": "ALL",
+    "notes": "훈련성향:공격 훈련 중심"
+  },
+  {
+    "evolution_id": 52,
+    "from_form_id": 23,
+    "to_form_id": 59,
+    "min_level": 10,
+    "evolve_type": "TRAINING",
+    "condition_logic": "ALL",
+    "notes": "훈련성향:수호/지원 훈련 중심"
+  },
+  {
+    "evolution_id": 53,
+    "from_form_id": 24,
+    "to_form_id": 60,
+    "min_level": 10,
+    "evolve_type": "TRAINING",
+    "condition_logic": "ALL",
+    "notes": "훈련성향:공격 훈련 중심"
+  },
+  {
+    "evolution_id": 54,
+    "from_form_id": 24,
+    "to_form_id": 61,
+    "min_level": 10,
+    "evolve_type": "TRAINING",
+    "condition_logic": "ALL",
+    "notes": "훈련성향:수호/지원 훈련 중심"
+  },
+  {
+    "evolution_id": 55,
+    "from_form_id": 25,
+    "to_form_id": 62,
+    "min_level": 10,
+    "evolve_type": "TRAINING",
+    "condition_logic": "ALL",
+    "notes": "훈련성향:공격 훈련 중심"
+  },
+  {
+    "evolution_id": 56,
+    "from_form_id": 25,
+    "to_form_id": 63,
+    "min_level": 10,
+    "evolve_type": "TRAINING",
+    "condition_logic": "ALL",
+    "notes": "훈련성향:수호/지원 훈련 중심"
+  },
+  {
+    "evolution_id": 57,
+    "from_form_id": 26,
+    "to_form_id": 64,
+    "min_level": 10,
+    "evolve_type": "TRAINING",
+    "condition_logic": "ALL",
+    "notes": "훈련성향:공격 훈련 중심"
+  },
+  {
+    "evolution_id": 58,
+    "from_form_id": 26,
+    "to_form_id": 65,
+    "min_level": 10,
+    "evolve_type": "TRAINING",
+    "condition_logic": "ALL",
+    "notes": "훈련성향:수호/지원 훈련 중심"
+  },
+  {
+    "evolution_id": 59,
+    "from_form_id": 27,
+    "to_form_id": 66,
+    "min_level": 10,
+    "evolve_type": "TRAINING",
+    "condition_logic": "ALL",
+    "notes": "훈련성향:공격 훈련 중심"
+  },
+  {
+    "evolution_id": 60,
+    "from_form_id": 27,
+    "to_form_id": 67,
+    "min_level": 10,
+    "evolve_type": "TRAINING",
+    "condition_logic": "ALL",
+    "notes": "훈련성향:수호/지원 훈련 중심"
+  },
+  {
+    "evolution_id": 61,
+    "from_form_id": 28,
+    "to_form_id": 68,
+    "min_level": 25,
+    "evolve_type": "REQUIREMENT",
+    "condition_logic": "ALL",
+    "notes": "진화조건:전투 50회+"
+  },
+  {
+    "evolution_id": 62,
+    "from_form_id": 28,
+    "to_form_id": 69,
+    "min_level": 25,
+    "evolve_type": "ITEM",
+    "condition_logic": "ALL",
+    "notes": "진화촉매:정령석:물 사용"
+  },
+  {
+    "evolution_id": 63,
+    "from_form_id": 29,
+    "to_form_id": 70,
+    "min_level": 25,
+    "evolve_type": "REQUIREMENT",
+    "condition_logic": "ALL",
+    "notes": "진화조건:친밀도 70+"
+  },
+  {
+    "evolution_id": 64,
+    "from_form_id": 29,
+    "to_form_id": 71,
+    "min_level": 25,
+    "evolve_type": "ITEM",
+    "condition_logic": "ALL",
+    "notes": "진화촉매:정령석:물 사용"
+  },
+  {
+    "evolution_id": 65,
+    "from_form_id": 30,
+    "to_form_id": 72,
+    "min_level": 25,
+    "evolve_type": "REQUIREMENT",
+    "condition_logic": "ALL",
+    "notes": "진화조건:전투 50회+"
+  },
+  {
+    "evolution_id": 66,
+    "from_form_id": 30,
+    "to_form_id": 73,
+    "min_level": 25,
+    "evolve_type": "ITEM",
+    "condition_logic": "ALL",
+    "notes": "진화촉매:정령석:물 사용"
+  },
+  {
+    "evolution_id": 67,
+    "from_form_id": 31,
+    "to_form_id": 74,
+    "min_level": 25,
+    "evolve_type": "REQUIREMENT",
+    "condition_logic": "ALL",
+    "notes": "진화조건:친밀도 70+"
+  },
+  {
+    "evolution_id": 68,
+    "from_form_id": 31,
+    "to_form_id": 75,
+    "min_level": 25,
+    "evolve_type": "ITEM",
+    "condition_logic": "ALL",
+    "notes": "진화촉매:정령석:물 사용"
+  },
+  {
+    "evolution_id": 69,
+    "from_form_id": 32,
+    "to_form_id": 76,
+    "min_level": 25,
+    "evolve_type": "REQUIREMENT",
+    "condition_logic": "ALL",
+    "notes": "진화조건:전투 50회+"
+  },
+  {
+    "evolution_id": 70,
+    "from_form_id": 32,
+    "to_form_id": 77,
+    "min_level": 25,
+    "evolve_type": "ITEM",
+    "condition_logic": "ALL",
+    "notes": "진화촉매:정령석:물 사용"
+  },
+  {
+    "evolution_id": 71,
+    "from_form_id": 33,
+    "to_form_id": 78,
+    "min_level": 25,
+    "evolve_type": "REQUIREMENT",
+    "condition_logic": "ALL",
+    "notes": "진화조건:친밀도 70+"
+  },
+  {
+    "evolution_id": 72,
+    "from_form_id": 33,
+    "to_form_id": 79,
+    "min_level": 25,
+    "evolve_type": "ITEM",
+    "condition_logic": "ALL",
+    "notes": "진화촉매:정령석:물 사용"
+  },
+  {
+    "evolution_id": 73,
+    "from_form_id": 34,
+    "to_form_id": 80,
+    "min_level": 25,
+    "evolve_type": "REQUIREMENT",
+    "condition_logic": "ALL",
+    "notes": "진화조건:전투 50회+"
+  },
+  {
+    "evolution_id": 74,
+    "from_form_id": 34,
+    "to_form_id": 81,
+    "min_level": 25,
+    "evolve_type": "ITEM",
+    "condition_logic": "ALL",
+    "notes": "진화촉매:정령석:불 사용"
+  },
+  {
+    "evolution_id": 75,
+    "from_form_id": 35,
+    "to_form_id": 82,
+    "min_level": 25,
+    "evolve_type": "REQUIREMENT",
+    "condition_logic": "ALL",
+    "notes": "진화조건:친밀도 70+"
+  },
+  {
+    "evolution_id": 76,
+    "from_form_id": 35,
+    "to_form_id": 83,
+    "min_level": 25,
+    "evolve_type": "ITEM",
+    "condition_logic": "ALL",
+    "notes": "진화촉매:정령석:불 사용"
+  },
+  {
+    "evolution_id": 77,
+    "from_form_id": 36,
+    "to_form_id": 84,
+    "min_level": 25,
+    "evolve_type": "REQUIREMENT",
+    "condition_logic": "ALL",
+    "notes": "진화조건:전투 50회+"
+  },
+  {
+    "evolution_id": 78,
+    "from_form_id": 36,
+    "to_form_id": 85,
+    "min_level": 25,
+    "evolve_type": "ITEM",
+    "condition_logic": "ALL",
+    "notes": "진화촉매:정령석:불 사용"
+  },
+  {
+    "evolution_id": 79,
+    "from_form_id": 37,
+    "to_form_id": 86,
+    "min_level": 25,
+    "evolve_type": "REQUIREMENT",
+    "condition_logic": "ALL",
+    "notes": "진화조건:친밀도 70+"
+  },
+  {
+    "evolution_id": 80,
+    "from_form_id": 37,
+    "to_form_id": 87,
+    "min_level": 25,
+    "evolve_type": "ITEM",
+    "condition_logic": "ALL",
+    "notes": "진화촉매:정령석:불 사용"
+  },
+  {
+    "evolution_id": 81,
+    "from_form_id": 38,
+    "to_form_id": 88,
+    "min_level": 25,
+    "evolve_type": "REQUIREMENT",
+    "condition_logic": "ALL",
+    "notes": "진화조건:전투 50회+"
+  },
+  {
+    "evolution_id": 82,
+    "from_form_id": 38,
+    "to_form_id": 89,
+    "min_level": 25,
+    "evolve_type": "ITEM",
+    "condition_logic": "ALL",
+    "notes": "진화촉매:정령석:불 사용"
+  },
+  {
+    "evolution_id": 83,
+    "from_form_id": 39,
+    "to_form_id": 90,
+    "min_level": 25,
+    "evolve_type": "REQUIREMENT",
+    "condition_logic": "ALL",
+    "notes": "진화조건:친밀도 70+"
+  },
+  {
+    "evolution_id": 84,
+    "from_form_id": 39,
+    "to_form_id": 91,
+    "min_level": 25,
+    "evolve_type": "ITEM",
+    "condition_logic": "ALL",
+    "notes": "진화촉매:정령석:불 사용"
+  },
+  {
+    "evolution_id": 85,
+    "from_form_id": 40,
+    "to_form_id": 92,
+    "min_level": 25,
+    "evolve_type": "REQUIREMENT",
+    "condition_logic": "ALL",
+    "notes": "진화조건:전투 50회+"
+  },
+  {
+    "evolution_id": 86,
+    "from_form_id": 40,
+    "to_form_id": 93,
+    "min_level": 25,
+    "evolve_type": "ITEM",
+    "condition_logic": "ALL",
+    "notes": "진화촉매:정령석:바람 사용"
+  },
+  {
+    "evolution_id": 87,
+    "from_form_id": 41,
+    "to_form_id": 94,
+    "min_level": 25,
+    "evolve_type": "REQUIREMENT",
+    "condition_logic": "ALL",
+    "notes": "진화조건:친밀도 70+"
+  },
+  {
+    "evolution_id": 88,
+    "from_form_id": 41,
+    "to_form_id": 95,
+    "min_level": 25,
+    "evolve_type": "ITEM",
+    "condition_logic": "ALL",
+    "notes": "진화촉매:정령석:바람 사용"
+  },
+  {
+    "evolution_id": 89,
+    "from_form_id": 42,
+    "to_form_id": 96,
+    "min_level": 25,
+    "evolve_type": "REQUIREMENT",
+    "condition_logic": "ALL",
+    "notes": "진화조건:전투 50회+"
+  },
+  {
+    "evolution_id": 90,
+    "from_form_id": 42,
+    "to_form_id": 97,
+    "min_level": 25,
+    "evolve_type": "ITEM",
+    "condition_logic": "ALL",
+    "notes": "진화촉매:정령석:바람 사용"
+  },
+  {
+    "evolution_id": 91,
+    "from_form_id": 43,
+    "to_form_id": 98,
+    "min_level": 25,
+    "evolve_type": "REQUIREMENT",
+    "condition_logic": "ALL",
+    "notes": "진화조건:친밀도 70+"
+  },
+  {
+    "evolution_id": 92,
+    "from_form_id": 43,
+    "to_form_id": 99,
+    "min_level": 25,
+    "evolve_type": "ITEM",
+    "condition_logic": "ALL",
+    "notes": "진화촉매:정령석:바람 사용"
+  },
+  {
+    "evolution_id": 93,
+    "from_form_id": 44,
+    "to_form_id": 100,
+    "min_level": 25,
+    "evolve_type": "REQUIREMENT",
+    "condition_logic": "ALL",
+    "notes": "진화조건:전투 50회+"
+  },
+  {
+    "evolution_id": 94,
+    "from_form_id": 44,
+    "to_form_id": 101,
+    "min_level": 25,
+    "evolve_type": "ITEM",
+    "condition_logic": "ALL",
+    "notes": "진화촉매:정령석:바람 사용"
+  },
+  {
+    "evolution_id": 95,
+    "from_form_id": 45,
+    "to_form_id": 102,
+    "min_level": 25,
+    "evolve_type": "REQUIREMENT",
+    "condition_logic": "ALL",
+    "notes": "진화조건:친밀도 70+"
+  },
+  {
+    "evolution_id": 96,
+    "from_form_id": 45,
+    "to_form_id": 103,
+    "min_level": 25,
+    "evolve_type": "ITEM",
+    "condition_logic": "ALL",
+    "notes": "진화촉매:정령석:바람 사용"
+  },
+  {
+    "evolution_id": 97,
+    "from_form_id": 46,
+    "to_form_id": 104,
+    "min_level": 25,
+    "evolve_type": "REQUIREMENT",
+    "condition_logic": "ALL",
+    "notes": "진화조건:전투 50회+"
+  },
+  {
+    "evolution_id": 98,
+    "from_form_id": 46,
+    "to_form_id": 105,
+    "min_level": 25,
+    "evolve_type": "ITEM",
+    "condition_logic": "ALL",
+    "notes": "진화촉매:정령석:풀 사용"
+  },
+  {
+    "evolution_id": 99,
+    "from_form_id": 47,
+    "to_form_id": 106,
+    "min_level": 25,
+    "evolve_type": "REQUIREMENT",
+    "condition_logic": "ALL",
+    "notes": "진화조건:친밀도 70+"
+  },
+  {
+    "evolution_id": 100,
+    "from_form_id": 47,
+    "to_form_id": 107,
+    "min_level": 25,
+    "evolve_type": "ITEM",
+    "condition_logic": "ALL",
+    "notes": "진화촉매:정령석:풀 사용"
+  },
+  {
+    "evolution_id": 101,
+    "from_form_id": 48,
+    "to_form_id": 108,
+    "min_level": 25,
+    "evolve_type": "REQUIREMENT",
+    "condition_logic": "ALL",
+    "notes": "진화조건:전투 50회+"
+  },
+  {
+    "evolution_id": 102,
+    "from_form_id": 48,
+    "to_form_id": 109,
+    "min_level": 25,
+    "evolve_type": "ITEM",
+    "condition_logic": "ALL",
+    "notes": "진화촉매:정령석:풀 사용"
+  },
+  {
+    "evolution_id": 103,
+    "from_form_id": 49,
+    "to_form_id": 110,
+    "min_level": 25,
+    "evolve_type": "REQUIREMENT",
+    "condition_logic": "ALL",
+    "notes": "진화조건:친밀도 70+"
+  },
+  {
+    "evolution_id": 104,
+    "from_form_id": 49,
+    "to_form_id": 111,
+    "min_level": 25,
+    "evolve_type": "ITEM",
+    "condition_logic": "ALL",
+    "notes": "진화촉매:정령석:풀 사용"
+  },
+  {
+    "evolution_id": 105,
+    "from_form_id": 50,
+    "to_form_id": 112,
+    "min_level": 25,
+    "evolve_type": "REQUIREMENT",
+    "condition_logic": "ALL",
+    "notes": "진화조건:전투 50회+"
+  },
+  {
+    "evolution_id": 106,
+    "from_form_id": 50,
+    "to_form_id": 113,
+    "min_level": 25,
+    "evolve_type": "ITEM",
+    "condition_logic": "ALL",
+    "notes": "진화촉매:정령석:풀 사용"
+  },
+  {
+    "evolution_id": 107,
+    "from_form_id": 51,
+    "to_form_id": 114,
+    "min_level": 25,
+    "evolve_type": "REQUIREMENT",
+    "condition_logic": "ALL",
+    "notes": "진화조건:친밀도 70+"
+  },
+  {
+    "evolution_id": 108,
+    "from_form_id": 51,
+    "to_form_id": 115,
+    "min_level": 25,
+    "evolve_type": "ITEM",
+    "condition_logic": "ALL",
+    "notes": "진화촉매:정령석:풀 사용"
+  },
+  {
+    "evolution_id": 109,
+    "from_form_id": 52,
+    "to_form_id": 116,
+    "min_level": 25,
+    "evolve_type": "REQUIREMENT",
+    "condition_logic": "ALL",
+    "notes": "진화조건:전투 50회+"
+  },
+  {
+    "evolution_id": 110,
+    "from_form_id": 52,
+    "to_form_id": 117,
+    "min_level": 25,
+    "evolve_type": "ITEM",
+    "condition_logic": "ALL",
+    "notes": "진화촉매:정령석:번개 사용"
+  },
+  {
+    "evolution_id": 111,
+    "from_form_id": 53,
+    "to_form_id": 118,
+    "min_level": 25,
+    "evolve_type": "REQUIREMENT",
+    "condition_logic": "ALL",
+    "notes": "진화조건:친밀도 70+"
+  },
+  {
+    "evolution_id": 112,
+    "from_form_id": 53,
+    "to_form_id": 119,
+    "min_level": 25,
+    "evolve_type": "ITEM",
+    "condition_logic": "ALL",
+    "notes": "진화촉매:정령석:번개 사용"
+  },
+  {
+    "evolution_id": 113,
+    "from_form_id": 54,
+    "to_form_id": 120,
+    "min_level": 25,
+    "evolve_type": "REQUIREMENT",
+    "condition_logic": "ALL",
+    "notes": "진화조건:전투 50회+"
+  },
+  {
+    "evolution_id": 114,
+    "from_form_id": 54,
+    "to_form_id": 121,
+    "min_level": 25,
+    "evolve_type": "ITEM",
+    "condition_logic": "ALL",
+    "notes": "진화촉매:정령석:번개 사용"
+  },
+  {
+    "evolution_id": 115,
+    "from_form_id": 55,
+    "to_form_id": 122,
+    "min_level": 25,
+    "evolve_type": "REQUIREMENT",
+    "condition_logic": "ALL",
+    "notes": "진화조건:친밀도 70+"
+  },
+  {
+    "evolution_id": 116,
+    "from_form_id": 55,
+    "to_form_id": 123,
+    "min_level": 25,
+    "evolve_type": "ITEM",
+    "condition_logic": "ALL",
+    "notes": "진화촉매:정령석:번개 사용"
+  },
+  {
+    "evolution_id": 117,
+    "from_form_id": 56,
+    "to_form_id": 124,
+    "min_level": 25,
+    "evolve_type": "REQUIREMENT",
+    "condition_logic": "ALL",
+    "notes": "진화조건:전투 50회+"
+  },
+  {
+    "evolution_id": 118,
+    "from_form_id": 56,
+    "to_form_id": 125,
+    "min_level": 25,
+    "evolve_type": "ITEM",
+    "condition_logic": "ALL",
+    "notes": "진화촉매:정령석:번개 사용"
+  },
+  {
+    "evolution_id": 119,
+    "from_form_id": 57,
+    "to_form_id": 126,
+    "min_level": 25,
+    "evolve_type": "REQUIREMENT",
+    "condition_logic": "ALL",
+    "notes": "진화조건:친밀도 70+"
+  },
+  {
+    "evolution_id": 120,
+    "from_form_id": 57,
+    "to_form_id": 127,
+    "min_level": 25,
+    "evolve_type": "ITEM",
+    "condition_logic": "ALL",
+    "notes": "진화촉매:정령석:번개 사용"
+  },
+  {
+    "evolution_id": 121,
+    "from_form_id": 58,
+    "to_form_id": 128,
+    "min_level": 25,
+    "evolve_type": "REQUIREMENT",
+    "condition_logic": "ALL",
+    "notes": "진화조건:전투 50회+"
+  },
+  {
+    "evolution_id": 122,
+    "from_form_id": 58,
+    "to_form_id": 129,
+    "min_level": 25,
+    "evolve_type": "ITEM",
+    "condition_logic": "ALL",
+    "notes": "진화촉매:정령석:번개 사용"
+  },
+  {
+    "evolution_id": 123,
+    "from_form_id": 59,
+    "to_form_id": 130,
+    "min_level": 25,
+    "evolve_type": "REQUIREMENT",
+    "condition_logic": "ALL",
+    "notes": "진화조건:친밀도 70+"
+  },
+  {
+    "evolution_id": 124,
+    "from_form_id": 59,
+    "to_form_id": 131,
+    "min_level": 25,
+    "evolve_type": "ITEM",
+    "condition_logic": "ALL",
+    "notes": "진화촉매:정령석:번개 사용"
+  },
+  {
+    "evolution_id": 125,
+    "from_form_id": 60,
+    "to_form_id": 132,
+    "min_level": 25,
+    "evolve_type": "REQUIREMENT",
+    "condition_logic": "ALL",
+    "notes": "진화조건:전투 50회+"
+  },
+  {
+    "evolution_id": 126,
+    "from_form_id": 60,
+    "to_form_id": 133,
+    "min_level": 25,
+    "evolve_type": "ITEM",
+    "condition_logic": "ALL",
+    "notes": "진화촉매:정령석:빛 사용"
+  },
+  {
+    "evolution_id": 127,
+    "from_form_id": 61,
+    "to_form_id": 134,
+    "min_level": 25,
+    "evolve_type": "REQUIREMENT",
+    "condition_logic": "ALL",
+    "notes": "진화조건:친밀도 70+"
+  },
+  {
+    "evolution_id": 128,
+    "from_form_id": 61,
+    "to_form_id": 135,
+    "min_level": 25,
+    "evolve_type": "ITEM",
+    "condition_logic": "ALL",
+    "notes": "진화촉매:정령석:빛 사용"
+  },
+  {
+    "evolution_id": 129,
+    "from_form_id": 62,
+    "to_form_id": 136,
+    "min_level": 25,
+    "evolve_type": "REQUIREMENT",
+    "condition_logic": "ALL",
+    "notes": "진화조건:전투 50회+"
+  },
+  {
+    "evolution_id": 130,
+    "from_form_id": 62,
+    "to_form_id": 137,
+    "min_level": 25,
+    "evolve_type": "ITEM",
+    "condition_logic": "ALL",
+    "notes": "진화촉매:정령석:빛 사용"
+  },
+  {
+    "evolution_id": 131,
+    "from_form_id": 63,
+    "to_form_id": 138,
+    "min_level": 25,
+    "evolve_type": "REQUIREMENT",
+    "condition_logic": "ALL",
+    "notes": "진화조건:친밀도 70+"
+  },
+  {
+    "evolution_id": 132,
+    "from_form_id": 63,
+    "to_form_id": 139,
+    "min_level": 25,
+    "evolve_type": "ITEM",
+    "condition_logic": "ALL",
+    "notes": "진화촉매:정령석:빛 사용"
+  },
+  {
+    "evolution_id": 133,
+    "from_form_id": 64,
+    "to_form_id": 140,
+    "min_level": 25,
+    "evolve_type": "REQUIREMENT",
+    "condition_logic": "ALL",
+    "notes": "진화조건:전투 50회+"
+  },
+  {
+    "evolution_id": 134,
+    "from_form_id": 64,
+    "to_form_id": 141,
+    "min_level": 25,
+    "evolve_type": "ITEM",
+    "condition_logic": "ALL",
+    "notes": "진화촉매:정령석:어둠 사용"
+  },
+  {
+    "evolution_id": 135,
+    "from_form_id": 65,
+    "to_form_id": 142,
+    "min_level": 25,
+    "evolve_type": "REQUIREMENT",
+    "condition_logic": "ALL",
+    "notes": "진화조건:친밀도 70+"
+  },
+  {
+    "evolution_id": 136,
+    "from_form_id": 65,
+    "to_form_id": 143,
+    "min_level": 25,
+    "evolve_type": "ITEM",
+    "condition_logic": "ALL",
+    "notes": "진화촉매:정령석:어둠 사용"
+  },
+  {
+    "evolution_id": 137,
+    "from_form_id": 66,
+    "to_form_id": 144,
+    "min_level": 25,
+    "evolve_type": "REQUIREMENT",
+    "condition_logic": "ALL",
+    "notes": "진화조건:전투 50회+"
+  },
+  {
+    "evolution_id": 138,
+    "from_form_id": 66,
+    "to_form_id": 145,
+    "min_level": 25,
+    "evolve_type": "ITEM",
+    "condition_logic": "ALL",
+    "notes": "진화촉매:정령석:어둠 사용"
+  },
+  {
+    "evolution_id": 139,
+    "from_form_id": 67,
+    "to_form_id": 146,
+    "min_level": 25,
+    "evolve_type": "REQUIREMENT",
+    "condition_logic": "ALL",
+    "notes": "진화조건:친밀도 70+"
+  },
+  {
+    "evolution_id": 140,
+    "from_form_id": 67,
+    "to_form_id": 147,
+    "min_level": 25,
+    "evolve_type": "ITEM",
+    "condition_logic": "ALL",
+    "notes": "진화촉매:정령석:어둠 사용"
+  },
+  {
+    "evolution_id": 141,
+    "from_form_id": 71,
+    "to_form_id": 148,
+    "min_level": 60,
+    "evolve_type": "TRANSCEND",
+    "condition_logic": "ALL",
+    "notes": "초월의식:초월석 + 해신의 인장"
+  },
+  {
+    "evolution_id": 142,
+    "from_form_id": 71,
+    "to_form_id": 149,
+    "min_level": 60,
+    "evolve_type": "TRANSCEND",
+    "condition_logic": "ALL",
+    "notes": "초월의식:초월석 + 심해왕의 인장"
+  },
+  {
+    "evolution_id": 143,
+    "from_form_id": 71,
+    "to_form_id": 150,
+    "min_level": 60,
+    "evolve_type": "TRANSCEND",
+    "condition_logic": "ALL",
+    "notes": "초월의식:초월석 + 빙결성좌의 인장"
+  },
+  {
+    "evolution_id": 144,
+    "from_form_id": 71,
+    "to_form_id": 151,
+    "min_level": 60,
+    "evolve_type": "TRANSCEND",
+    "condition_logic": "ALL",
+    "notes": "초월의식:초월석 + 대양기원의 인장"
+  },
+  {
+    "evolution_id": 145,
+    "from_form_id": 91,
+    "to_form_id": 152,
+    "min_level": 60,
+    "evolve_type": "TRANSCEND",
+    "condition_logic": "ALL",
+    "notes": "초월의식:초월석 + 태양군주의 인장"
+  },
+  {
+    "evolution_id": 146,
+    "from_form_id": 91,
+    "to_form_id": 153,
+    "min_level": 60,
+    "evolve_type": "TRANSCEND",
+    "condition_logic": "ALL",
+    "notes": "초월의식:초월석 + 인페르노의 인장"
+  },
+  {
+    "evolution_id": 147,
+    "from_form_id": 91,
+    "to_form_id": 154,
+    "min_level": 60,
+    "evolve_type": "TRANSCEND",
+    "condition_logic": "ALL",
+    "notes": "초월의식:초월석 + 멸화성좌의 인장"
+  },
+  {
+    "evolution_id": 148,
+    "from_form_id": 91,
+    "to_form_id": 155,
+    "min_level": 60,
+    "evolve_type": "TRANSCEND",
+    "condition_logic": "ALL",
+    "notes": "초월의식:초월석 + 화신기원의 인장"
+  },
+  {
+    "evolution_id": 149,
+    "from_form_id": 103,
+    "to_form_id": 156,
+    "min_level": 60,
+    "evolve_type": "TRANSCEND",
+    "condition_logic": "ALL",
+    "notes": "초월의식:초월석 + 천공지배자의 인장"
+  },
+  {
+    "evolution_id": 150,
+    "from_form_id": 103,
+    "to_form_id": 157,
+    "min_level": 60,
+    "evolve_type": "TRANSCEND",
+    "condition_logic": "ALL",
+    "notes": "초월의식:초월석 + 폭풍신의 인장"
+  },
+  {
+    "evolution_id": 151,
+    "from_form_id": 103,
+    "to_form_id": 158,
+    "min_level": 60,
+    "evolve_type": "TRANSCEND",
+    "condition_logic": "ALL",
+    "notes": "초월의식:초월석 + 질풍성좌의 인장"
+  },
+  {
+    "evolution_id": 152,
+    "from_form_id": 103,
+    "to_form_id": 159,
+    "min_level": 60,
+    "evolve_type": "TRANSCEND",
+    "condition_logic": "ALL",
+    "notes": "초월의식:초월석 + 스카이기원의 인장"
+  },
+  {
+    "evolution_id": 153,
+    "from_form_id": 115,
+    "to_form_id": 160,
+    "min_level": 60,
+    "evolve_type": "TRANSCEND",
+    "condition_logic": "ALL",
+    "notes": "초월의식:초월석 + 세계수군주의 인장"
+  },
+  {
+    "evolution_id": 154,
+    "from_form_id": 115,
+    "to_form_id": 161,
+    "min_level": 60,
+    "evolve_type": "TRANSCEND",
+    "condition_logic": "ALL",
+    "notes": "초월의식:초월석 + 대지정령왕의 인장"
+  },
+  {
+    "evolution_id": 155,
+    "from_form_id": 115,
+    "to_form_id": 162,
+    "min_level": 60,
+    "evolve_type": "TRANSCEND",
+    "condition_logic": "ALL",
+    "notes": "초월의식:초월석 + 만개성좌의 인장"
+  },
+  {
+    "evolution_id": 156,
+    "from_form_id": 115,
+    "to_form_id": 163,
+    "min_level": 60,
+    "evolve_type": "TRANSCEND",
+    "condition_logic": "ALL",
+    "notes": "초월의식:초월석 + 네이처기원의 인장"
+  },
+  {
+    "evolution_id": 157,
+    "from_form_id": 131,
+    "to_form_id": 164,
+    "min_level": 60,
+    "evolve_type": "TRANSCEND",
+    "condition_logic": "ALL",
+    "notes": "초월의식:초월석 + 천둥신의 인장"
+  },
+  {
+    "evolution_id": 158,
+    "from_form_id": 131,
+    "to_form_id": 165,
+    "min_level": 60,
+    "evolve_type": "TRANSCEND",
+    "condition_logic": "ALL",
+    "notes": "초월의식:초월석 + 초전도의 인장"
+  },
+  {
+    "evolution_id": 159,
+    "from_form_id": 131,
+    "to_form_id": 166,
+    "min_level": 60,
+    "evolve_type": "TRANSCEND",
+    "condition_logic": "ALL",
+    "notes": "초월의식:초월석 + 플라즈마성좌의 인장"
+  },
+  {
+    "evolution_id": 160,
+    "from_form_id": 131,
+    "to_form_id": 167,
+    "min_level": 60,
+    "evolve_type": "TRANSCEND",
+    "condition_logic": "ALL",
+    "notes": "초월의식:초월석 + 볼트기원의 인장"
+  },
+  {
+    "evolution_id": 161,
+    "from_form_id": 129,
+    "to_form_id": 168,
+    "min_level": 60,
+    "evolve_type": "TRANSCEND",
+    "condition_logic": "ALL",
+    "notes": "초월의식:초월석 + 천둥신의 인장"
+  },
+  {
+    "evolution_id": 162,
+    "from_form_id": 129,
+    "to_form_id": 169,
+    "min_level": 60,
+    "evolve_type": "TRANSCEND",
+    "condition_logic": "ALL",
+    "notes": "초월의식:초월석 + 초전도의 인장"
+  },
+  {
+    "evolution_id": 163,
+    "from_form_id": 129,
+    "to_form_id": 170,
+    "min_level": 60,
+    "evolve_type": "TRANSCEND",
+    "condition_logic": "ALL",
+    "notes": "초월의식:초월석 + 플라즈마성좌의 인장"
+  },
+  {
+    "evolution_id": 164,
+    "from_form_id": 129,
+    "to_form_id": 171,
+    "min_level": 60,
+    "evolve_type": "TRANSCEND",
+    "condition_logic": "ALL",
+    "notes": "초월의식:초월석 + 볼트기원의 인장"
+  },
+  {
+    "evolution_id": 165,
+    "from_form_id": 130,
+    "to_form_id": 172,
+    "min_level": 60,
+    "evolve_type": "TRANSCEND",
+    "condition_logic": "ALL",
+    "notes": "초월의식:초월석 + 천둥신의 인장"
+  },
+  {
+    "evolution_id": 166,
+    "from_form_id": 130,
+    "to_form_id": 173,
+    "min_level": 60,
+    "evolve_type": "TRANSCEND",
+    "condition_logic": "ALL",
+    "notes": "초월의식:초월석 + 초전도의 인장"
+  },
+  {
+    "evolution_id": 167,
+    "from_form_id": 130,
+    "to_form_id": 174,
+    "min_level": 60,
+    "evolve_type": "TRANSCEND",
+    "condition_logic": "ALL",
+    "notes": "초월의식:초월석 + 플라즈마성좌의 인장"
+  },
+  {
+    "evolution_id": 168,
+    "from_form_id": 130,
+    "to_form_id": 175,
+    "min_level": 60,
+    "evolve_type": "TRANSCEND",
+    "condition_logic": "ALL",
+    "notes": "초월의식:초월석 + 볼트기원의 인장"
+  },
+  {
+    "evolution_id": 169,
+    "from_form_id": 139,
+    "to_form_id": 176,
+    "min_level": 60,
+    "evolve_type": "TRANSCEND",
+    "condition_logic": "ALL",
+    "notes": "초월의식:초월석 + 세라핌의 인장"
+  },
+  {
+    "evolution_id": 170,
+    "from_form_id": 139,
+    "to_form_id": 177,
+    "min_level": 60,
+    "evolve_type": "TRANSCEND",
+    "condition_logic": "ALL",
+    "notes": "초월의식:초월석 + 성휘군주의 인장"
+  },
+  {
+    "evolution_id": 171,
+    "from_form_id": 139,
+    "to_form_id": 178,
+    "min_level": 60,
+    "evolve_type": "TRANSCEND",
+    "condition_logic": "ALL",
+    "notes": "초월의식:초월석 + 프리즘성좌의 인장"
+  },
+  {
+    "evolution_id": 172,
+    "from_form_id": 139,
+    "to_form_id": 179,
+    "min_level": 60,
+    "evolve_type": "TRANSCEND",
+    "condition_logic": "ALL",
+    "notes": "초월의식:초월석 + 루미나기원의 인장"
+  },
+  {
+    "evolution_id": 173,
+    "from_form_id": 138,
+    "to_form_id": 180,
+    "min_level": 60,
+    "evolve_type": "TRANSCEND",
+    "condition_logic": "ALL",
+    "notes": "초월의식:초월석 + 세라핌의 인장"
+  },
+  {
+    "evolution_id": 174,
+    "from_form_id": 138,
+    "to_form_id": 181,
+    "min_level": 60,
+    "evolve_type": "TRANSCEND",
+    "condition_logic": "ALL",
+    "notes": "초월의식:초월석 + 성휘군주의 인장"
+  },
+  {
+    "evolution_id": 175,
+    "from_form_id": 138,
+    "to_form_id": 182,
+    "min_level": 60,
+    "evolve_type": "TRANSCEND",
+    "condition_logic": "ALL",
+    "notes": "초월의식:초월석 + 프리즘성좌의 인장"
+  },
+  {
+    "evolution_id": 176,
+    "from_form_id": 138,
+    "to_form_id": 183,
+    "min_level": 60,
+    "evolve_type": "TRANSCEND",
+    "condition_logic": "ALL",
+    "notes": "초월의식:초월석 + 루미나기원의 인장"
+  },
+  {
+    "evolution_id": 177,
+    "from_form_id": 147,
+    "to_form_id": 184,
+    "min_level": 60,
+    "evolve_type": "TRANSCEND",
+    "condition_logic": "ALL",
+    "notes": "초월의식:초월석 + 나이트메어의 인장"
+  },
+  {
+    "evolution_id": 178,
+    "from_form_id": 147,
+    "to_form_id": 185,
+    "min_level": 60,
+    "evolve_type": "TRANSCEND",
+    "condition_logic": "ALL",
+    "notes": "초월의식:초월석 + 심연군주의 인장"
+  },
+  {
+    "evolution_id": 179,
+    "from_form_id": 147,
+    "to_form_id": 186,
+    "min_level": 60,
+    "evolve_type": "TRANSCEND",
+    "condition_logic": "ALL",
+    "notes": "초월의식:초월석 + 흑월성좌의 인장"
+  },
+  {
+    "evolution_id": 180,
+    "from_form_id": 147,
+    "to_form_id": 187,
+    "min_level": 60,
+    "evolve_type": "TRANSCEND",
+    "condition_logic": "ALL",
+    "notes": "초월의식:초월석 + 어비스기원의 인장"
+  }
+]
