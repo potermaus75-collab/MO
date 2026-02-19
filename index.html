@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <title>몬스터 원정대 (웹 프로토타입)</title>
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+  <div id="app">
+    <canvas id="mapCanvas" width="640" height="480" aria-label="게임 화면"></canvas>
+
+    <div id="uiLayer">
+      <div id="topBar">
+        <div id="topLeft">
+          <span id="locationLabel">—</span>
+        </div>
+        <div id="topRight">
+          <button id="btnMenu" class="btn small">메뉴</button>
+          <button id="btnSave" class="btn small">저장</button>
+          <button id="btnReset" class="btn small danger">리셋</button>
+        </div>
+      </div>
+
+      <div id="toast" class="toast hidden"></div>
+
+      <div id="dialogueBox" class="dialogue hidden">
+        <div id="dialogueName" class="dialogueName"></div>
+        <div id="dialogueText" class="dialogueText"></div>
+        <div id="dialogueHint" class="dialogueHint">Enter</div>
+      </div>
+
+      <div id="panel" class="panel hidden">
+        <div class="panelHeader">
+          <div id="panelTitle" class="panelTitle">패널</div>
+          <button id="panelClose" class="btn small">닫기</button>
+        </div>
+        <div id="panelBody" class="panelBody"></div>
+      </div>
+
+      <div id="battleUI" class="battle hidden">
+        <div class="battleHeader">
+          <div class="battleSide">
+            <div class="battleName" id="enemyName">적</div>
+            <div class="hpBar"><div class="hpFill" id="enemyHpFill"></div></div>
+            <div class="hpText" id="enemyHpText">HP</div>
+          </div>
+          <div class="battleSide">
+            <div class="battleName" id="playerName">나</div>
+            <div class="hpBar"><div class="hpFill" id="playerHpFill"></div></div>
+            <div class="hpText" id="playerHpText">HP</div>
+          </div>
+        </div>
+
+        <div id="battleLog" class="battleLog"></div>
+
+        <div id="battleActions" class="battleActions">
+          <button class="btn" data-action="FIGHT">기술</button>
+          <button class="btn" data-action="BAG">가방</button>
+          <button class="btn" data-action="CAPTURE">포획</button>
+          <button class="btn" data-action="RUN">도망</button>
+        </div>
+
+        <div id="battleSubmenu" class="battleSubmenu hidden"></div>
+      </div>
+    </div>
+  </div>
+
+  <script type="module" src="js/main.js"></script>
+</body>
+</html>

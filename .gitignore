@@ -1,0 +1,14 @@
+# Node / tooling
+node_modules/
+dist/
+
+# Local servers
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Optional: DB files
+*.sqlite
+*.sqlite3
