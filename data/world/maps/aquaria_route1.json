@@ -1,0 +1,55 @@
+{
+  "id": "aquaria_route1",
+  "name": "1번 길목",
+  "regionId": "aquaria",
+  "width": 20,
+  "height": 15,
+  "tiles": [
+    "####################",
+    "EGRRRRGGGGTTTTGGGGE#",
+    "#GRRRRGGGGTTTTGGGGG#",
+    "#GRRRRGGGGTTTTGGGGG#",
+    "#GRRRRGGGGGGGGGGGGG#",
+    "#GGGGG....GGGGGGGGG#",
+    "#GGGG.....GGTTTGGGG#",
+    "#GGGG.....GGTTTGGGG#",
+    "#GGGGG....GGGGGGGGG#",
+    "#GGGGGGGGGGGGGGGGGG#",
+    "#GTTTGGGGG....GGGGG#",
+    "#GTTTGGGGG....GGGGG#",
+    "#GGGGGGGGG....GGGGG#",
+    "#GGGGGGGGGGGGGGGGGG#",
+    "####################"
+  ],
+  "start": {
+    "x": 1,
+    "y": 1
+  },
+  "music": "route",
+  "exits": [
+    {
+      "x": 0,
+      "y": 1,
+      "toMap": "aquaria_town",
+      "toX": 17,
+      "toY": 1
+    },
+    {
+      "x": 18,
+      "y": 1,
+      "toMap": "aquaria_lake",
+      "toX": 1,
+      "toY": 1
+    }
+  ],
+  "encounters": {
+    "GRASS": {
+      "rate": 0.12,
+      "tableId": "aquaria_route1_grass"
+    },
+    "TREE": {
+      "rate": 0.65,
+      "tableId": "aquaria_route1_tree"
+    }
+  }
+}

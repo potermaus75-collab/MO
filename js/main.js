@@ -92,9 +92,40 @@ class GameApp{
   }
 
   async start(){
-    this.ui.toast("데이터 로딩 중...");
-    await this.data.loadAll();
-    this.ui.toast("로딩 완료");
+    try{
+      this.ui.toast("데이터 로딩 중...");
+      await this.data.loadAll();
+      this.ui.toast("로딩 완료");
+    }catch(err){
+      console.error(err);
+      const msg = (err && err.message) ? String(err.message) : String(err);
+      const esc = (s)=>s.replaceAll("&","&amp;").replaceAll("<","&lt;").replaceAll(">","&gt;");
+
+      this.mode = "TITLE";
+      this.ui.setLocationLabel("로딩 오류");
+      this.ui.showPanel("로딩 오류", `
+        <div class="card">
+          <div style="font-size:16px;font-weight:800;">데이터 파일을 불러오지 못했다.</div>
+          <div class="smallText" style="margin-top:8px;line-height:1.5;">
+            에러: <code>${esc(msg)}</code>
+          </div>
+          <div class="smallText" style="margin-top:10px;line-height:1.6;">
+            <b>가장 흔한 원인</b><br/>
+            1) GitHub 리포지토리에 <b>data/ 폴더가 누락</b>(특히 data/master/*.json)<br/>
+            2) GitHub Pages 설정에서 Source 폴더가 잘못됨(루트가 아닌 다른 폴더를 보고 있음)<br/>
+            3) 파일/폴더 이름 대소문자 불일치(예: Data vs data)
+          </div>
+          <div class="smallText" style="margin-top:10px;line-height:1.6;">
+            <b>체크리스트</b><br/>
+            - 리포지토리에서 index.html 옆에 <b>css/</b>, <b>js/</b>, <b>data/</b> 폴더가 있는지 확인<br/>
+            - 브라우저 개발자도구(F12) → Network 탭에서 <b>404</b>가 나는 JSON 파일이 무엇인지 확인<br/>
+            - GitHub Pages 배포 후 캐시 때문에 안 바뀌면 <b>Ctrl+F5</b> 강력 새로고침
+          </div>
+        </div>
+      `);
+      this.ui.toast("로딩 실패: data 폴더/Pages 설정을 확인");
+      return;
+    }
 
     // Load or create save
     const existing = loadSave();

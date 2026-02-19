@@ -78,11 +78,13 @@ export class DataStore{
   async loadAll(){
     if(this.loaded) return;
 
-    const base = new URL("../", import.meta.url);
+    // Use the document location (index.html) as the base.
+    // This avoids common GitHub Pages path issues for project sites (/repo/).
+    const base = new URL(".", document.baseURI);
 
-    const masterBase = new URL("../data/master/", base);
-    const worldBase = new URL("../data/world/", base);
-    const gameBase  = new URL("../data/game/", base);
+    const masterBase = new URL("data/master/", base);
+    const worldBase = new URL("data/world/", base);
+    const gameBase  = new URL("data/game/", base);
 
     const [
       elements, elementMatchups, rarities, stages, roles, natures, envTags, trainingStyles,
