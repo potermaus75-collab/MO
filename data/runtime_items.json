@@ -1,0 +1,32 @@
+[
+  {
+    "code": "CAPTURE_ORB",
+    "name": "포획구",
+    "type": "CAPTURE",
+    "description": "야생 몬스터를 포획할 때 사용한다.",
+    "ballModifier": 1.0,
+    "price": 100
+  },
+  {
+    "code": "SUPER_ORB",
+    "name": "상급 포획구",
+    "type": "CAPTURE",
+    "description": "포획 확률이 더 높은 포획구.",
+    "ballModifier": 1.5,
+    "price": 300
+  },
+  {
+    "code": "HEAL_GEL",
+    "name": "회복젤",
+    "type": "HEAL",
+    "description": "파티의 몬스터 1마리를 최대 HP의 35% 회복한다.",
+    "healRatio": 0.35,
+    "price": 150
+  },
+  {
+    "code": "HEAT_GEAR",
+    "name": "내열 장비",
+    "type": "KEY_ITEM",
+    "description": "용암 지대 조사에 필요하다. (보스 보상)"
+  }
+]
