@@ -1,0 +1,62 @@
+[
+  {
+    "role_id": 1,
+    "code": "BALANCED",
+    "name_kr": "균형",
+    "description": "특정 스탯에 치우치지 않은 기본 역할.",
+    "stat_bias_json": {
+      "hp": 1.0,
+      "atk": 1.0,
+      "def": 1.0,
+      "spd": 1.0
+    }
+  },
+  {
+    "role_id": 2,
+    "code": "STRIKER",
+    "name_kr": "공격형",
+    "description": "한 번에 큰 피해를 누적하는 딜러 역할.",
+    "stat_bias_json": {
+      "hp": 0.95,
+      "atk": 1.15,
+      "def": 0.95,
+      "spd": 1.0
+    }
+  },
+  {
+    "role_id": 3,
+    "code": "TANK",
+    "name_kr": "방어형",
+    "description": "피해를 받아내며 버티는 탱커 역할.",
+    "stat_bias_json": {
+      "hp": 1.15,
+      "atk": 0.95,
+      "def": 1.15,
+      "spd": 0.9
+    }
+  },
+  {
+    "role_id": 4,
+    "code": "SUPPORT",
+    "name_kr": "지원형",
+    "description": "회복/보호막/강화로 팀을 보조하는 서포터 역할.",
+    "stat_bias_json": {
+      "hp": 1.05,
+      "atk": 0.9,
+      "def": 1.0,
+      "spd": 1.05
+    }
+  },
+  {
+    "role_id": 5,
+    "code": "CONTROLLER",
+    "name_kr": "제어형",
+    "description": "상태이상/디버프로 전투 흐름을 조절하는 컨트롤러 역할.",
+    "stat_bias_json": {
+      "hp": 0.95,
+      "atk": 1.0,
+      "def": 0.95,
+      "spd": 1.15
+    }
+  }
+]

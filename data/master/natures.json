@@ -1,0 +1,102 @@
+[
+  {
+    "nature_id": 1,
+    "code": "NEUTRAL",
+    "name_kr": "평정",
+    "hp_mult": 1.0,
+    "atk_mult": 1.0,
+    "def_mult": 1.0,
+    "spd_mult": 1.0,
+    "description": "스탯 보정이 없는 중립 성격."
+  },
+  {
+    "nature_id": 2,
+    "code": "BRAVE",
+    "name_kr": "용맹",
+    "hp_mult": 1.0,
+    "atk_mult": 1.1,
+    "def_mult": 0.95,
+    "spd_mult": 0.95,
+    "description": "공격이 오르지만 방어/속도가 다소 낮다."
+  },
+  {
+    "nature_id": 3,
+    "code": "STURDY",
+    "name_kr": "견고",
+    "hp_mult": 1.05,
+    "atk_mult": 0.95,
+    "def_mult": 1.1,
+    "spd_mult": 0.9,
+    "description": "방어와 체력이 오르지만 속도가 낮다."
+  },
+  {
+    "nature_id": 4,
+    "code": "SWIFT",
+    "name_kr": "질풍",
+    "hp_mult": 0.95,
+    "atk_mult": 1.0,
+    "def_mult": 0.95,
+    "spd_mult": 1.1,
+    "description": "속도가 오르지만 체력/방어가 낮다."
+  },
+  {
+    "nature_id": 5,
+    "code": "VITAL",
+    "name_kr": "강인",
+    "hp_mult": 1.1,
+    "atk_mult": 0.95,
+    "def_mult": 1.0,
+    "spd_mult": 0.95,
+    "description": "체력이 오르지만 공격/속도가 낮다."
+  },
+  {
+    "nature_id": 6,
+    "code": "FEROCIOUS",
+    "name_kr": "광폭",
+    "hp_mult": 0.9,
+    "atk_mult": 1.15,
+    "def_mult": 0.95,
+    "spd_mult": 1.0,
+    "description": "공격 특화. 체력이 낮다."
+  },
+  {
+    "nature_id": 7,
+    "code": "SAGE",
+    "name_kr": "냉철",
+    "hp_mult": 1.0,
+    "atk_mult": 0.95,
+    "def_mult": 1.1,
+    "spd_mult": 0.95,
+    "description": "방어 특화. 공격과 속도가 낮다."
+  },
+  {
+    "nature_id": 8,
+    "code": "DANCER",
+    "name_kr": "경쾌",
+    "hp_mult": 0.95,
+    "atk_mult": 1.05,
+    "def_mult": 0.9,
+    "spd_mult": 1.05,
+    "description": "공격/속도 균형 상승, 방어가 낮다."
+  },
+  {
+    "nature_id": 9,
+    "code": "GUARDIAN",
+    "name_kr": "수호",
+    "hp_mult": 1.05,
+    "atk_mult": 0.9,
+    "def_mult": 1.15,
+    "spd_mult": 0.9,
+    "description": "체력/방어 특화, 속도가 낮다."
+  },
+  {
+    "nature_id": 10,
+    "code": "TRICKSTER",
+    "name_kr": "교활",
+    "hp_mult": 0.95,
+    "atk_mult": 1.05,
+    "def_mult": 0.95,
+    "spd_mult": 1.05,
+    "description": "공격/속도 상승, 체력/방어가 낮다."
+  }
+]

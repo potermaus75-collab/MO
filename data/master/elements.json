@@ -1,0 +1,44 @@
+[
+  {
+    "element_id": 1,
+    "code": "WATER",
+    "name_kr": "물",
+    "name_en": "Water"
+  },
+  {
+    "element_id": 2,
+    "code": "FIRE",
+    "name_kr": "불",
+    "name_en": "Fire"
+  },
+  {
+    "element_id": 3,
+    "code": "WIND",
+    "name_kr": "바람",
+    "name_en": "Wind"
+  },
+  {
+    "element_id": 4,
+    "code": "GRASS",
+    "name_kr": "풀",
+    "name_en": "Grass"
+  },
+  {
+    "element_id": 5,
+    "code": "LIGHTNING",
+    "name_kr": "번개",
+    "name_en": "Lightning"
+  },
+  {
+    "element_id": 6,
+    "code": "LIGHT",
+    "name_kr": "빛",
+    "name_en": "Light"
+  },
+  {
+    "element_id": 7,
+    "code": "DARK",
+    "name_kr": "어둠",
+    "name_en": "Dark"
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "level": 1,
+    "expToNext": 10
+  },
+  {
+    "level": 2,
+    "expToNext": 45
+  },
+  {
+    "level": 3,
+    "expToNext": 112
+  },
+  {
+    "level": 4,
+    "expToNext": 211
+  },
+  {
+    "level": 5,
+    "expToNext": 344
+  },
+  {
+    "level": 6,
+    "expToNext": 515
+  },
+  {
+    "level": 7,
+    "expToNext": 723
+  },
+  {
+    "level": 8,
+    "expToNext": 970
+  },
+  {
+    "level": 9,
+    "expToNext": 1256
+  },
+  {
+    "level": 10,
+    "expToNext": 1584
+  },
+  {
+    "level": 11,
+    "expToNext": 1954
+  },
+  {
+    "level": 12,
+    "expToNext": 2367
+  },
+  {
+    "level": 13,
+    "expToNext": 2822
+  },
+  {
+    "level": 14,
+    "expToNext": 3322
+  },
+  {
+    "level": 15,
+    "expToNext": 3867
+  },
+  {
+    "level": 16,
+    "expToNext": 4457
+  },
+  {
+    "level": 17,
+    "expToNext": 5093
+  },
+  {
+    "level": 18,
+    "expToNext": 5775
+  },
+  {
+    "level": 19,
+    "expToNext": 6505
+  },
+  {
+    "level": 20,
+    "expToNext": 7282
+  },
+  {
+    "level": 21,
+    "expToNext": 8107
+  },
+  {
+    "level": 22,
+    "expToNext": 8981
+  },
+  {
+    "level": 23,
+    "expToNext": 9903
+  },
+  {
+    "level": 24,
+    "expToNext": 10875
+  },
+  {
+    "level": 25,
+    "expToNext": 11897
+  },
+  {
+    "level": 26,
+    "expToNext": 12970
+  },
+  {
+    "level": 27,
+    "expToNext": 14092
+  },
+  {
+    "level": 28,
+    "expToNext": 15266
+  },
+  {
+    "level": 29,
+    "expToNext": 16492
+  },
+  {
+    "level": 30,
+    "expToNext": 17769
+  },
+  {
+    "level": 31,
+    "expToNext": 19098
+  },
+  {
+    "level": 32,
+    "expToNext": 20480
+  },
+  {
+    "level": 33,
+    "expToNext": 21914
+  },
+  {
+    "level": 34,
+    "expToNext": 23402
+  },
+  {
+    "level": 35,
+    "expToNext": 24943
+  },
+  {
+    "level": 36,
+    "expToNext": 26537
+  },
+  {
+    "level": 37,
+    "expToNext": 28186
+  },
+  {
+    "level": 38,
+    "expToNext": 29889
+  },
+  {
+    "level": 39,
+    "expToNext": 31647
+  },
+  {
+    "level": 40,
+    "expToNext": 33460
+  },
+  {
+    "level": 41,
+    "expToNext": 35328
+  },
+  {
+    "level": 42,
+    "expToNext": 37251
+  },
+  {
+    "level": 43,
+    "expToNext": 39231
+  },
+  {
+    "level": 44,
+    "expToNext": 41266
+  },
+  {
+    "level": 45,
+    "expToNext": 43357
+  },
+  {
+    "level": 46,
+    "expToNext": 45505
+  },
+  {
+    "level": 47,
+    "expToNext": 47710
+  },
+  {
+    "level": 48,
+    "expToNext": 49972
+  },
+  {
+    "level": 49,
+    "expToNext": 52291
+  },
+  {
+    "level": 50,
+    "expToNext": 54668
+  }
+]

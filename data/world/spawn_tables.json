@@ -1,0 +1,292 @@
+{
+  "aquaria_route1_grass": [
+    {
+      "formId": 17,
+      "weight": 30,
+      "minLevel": 2,
+      "maxLevel": 4
+    },
+    {
+      "formId": 18,
+      "weight": 30,
+      "minLevel": 2,
+      "maxLevel": 4
+    },
+    {
+      "formId": 14,
+      "weight": 25,
+      "minLevel": 2,
+      "maxLevel": 4
+    },
+    {
+      "formId": 15,
+      "weight": 15,
+      "minLevel": 2,
+      "maxLevel": 4
+    },
+    {
+      "formId": 21,
+      "weight": 8,
+      "minLevel": 3,
+      "maxLevel": 5
+    },
+    {
+      "formId": 19,
+      "weight": 5,
+      "minLevel": 3,
+      "maxLevel": 5
+    },
+    {
+      "formId": 23,
+      "weight": 2,
+      "minLevel": 4,
+      "maxLevel": 6
+    }
+  ],
+  "aquaria_route1_tree": [
+    {
+      "formId": 16,
+      "weight": 25,
+      "minLevel": 3,
+      "maxLevel": 5
+    },
+    {
+      "formId": 15,
+      "weight": 25,
+      "minLevel": 3,
+      "maxLevel": 5
+    },
+    {
+      "formId": 14,
+      "weight": 20,
+      "minLevel": 2,
+      "maxLevel": 4
+    },
+    {
+      "formId": 19,
+      "weight": 15,
+      "minLevel": 3,
+      "maxLevel": 5
+    },
+    {
+      "formId": 27,
+      "weight": 5,
+      "minLevel": 4,
+      "maxLevel": 6
+    },
+    {
+      "formId": 23,
+      "weight": 3,
+      "minLevel": 4,
+      "maxLevel": 6
+    }
+  ],
+  "aquaria_lake_grass": [
+    {
+      "formId": 17,
+      "weight": 25,
+      "minLevel": 3,
+      "maxLevel": 5
+    },
+    {
+      "formId": 14,
+      "weight": 20,
+      "minLevel": 3,
+      "maxLevel": 5
+    },
+    {
+      "formId": 8,
+      "weight": 10,
+      "minLevel": 2,
+      "maxLevel": 4
+    },
+    {
+      "formId": 9,
+      "weight": 10,
+      "minLevel": 2,
+      "maxLevel": 4
+    },
+    {
+      "formId": 21,
+      "weight": 10,
+      "minLevel": 3,
+      "maxLevel": 5
+    },
+    {
+      "formId": 18,
+      "weight": 15,
+      "minLevel": 3,
+      "maxLevel": 5
+    },
+    {
+      "formId": 23,
+      "weight": 3,
+      "minLevel": 5,
+      "maxLevel": 7
+    }
+  ],
+  "aquaria_lake_tree": [
+    {
+      "formId": 15,
+      "weight": 25,
+      "minLevel": 4,
+      "maxLevel": 6
+    },
+    {
+      "formId": 16,
+      "weight": 25,
+      "minLevel": 4,
+      "maxLevel": 6
+    },
+    {
+      "formId": 19,
+      "weight": 20,
+      "minLevel": 4,
+      "maxLevel": 6
+    },
+    {
+      "formId": 27,
+      "weight": 10,
+      "minLevel": 5,
+      "maxLevel": 7
+    },
+    {
+      "formId": 23,
+      "weight": 5,
+      "minLevel": 5,
+      "maxLevel": 7
+    }
+  ],
+  "aquaria_lake_water": [
+    {
+      "formId": 8,
+      "weight": 35,
+      "minLevel": 2,
+      "maxLevel": 4
+    },
+    {
+      "formId": 9,
+      "weight": 35,
+      "minLevel": 2,
+      "maxLevel": 4
+    },
+    {
+      "formId": 10,
+      "weight": 25,
+      "minLevel": 3,
+      "maxLevel": 5
+    },
+    {
+      "formId": 28,
+      "weight": 10,
+      "minLevel": 6,
+      "maxLevel": 8
+    },
+    {
+      "formId": 30,
+      "weight": 10,
+      "minLevel": 6,
+      "maxLevel": 8
+    },
+    {
+      "formId": 32,
+      "weight": 8,
+      "minLevel": 7,
+      "maxLevel": 9
+    },
+    {
+      "formId": 29,
+      "weight": 4,
+      "minLevel": 8,
+      "maxLevel": 10
+    }
+  ],
+  "ignis_volcano_ash": [
+    {
+      "formId": 12,
+      "weight": 25,
+      "minLevel": 5,
+      "maxLevel": 7
+    },
+    {
+      "formId": 11,
+      "weight": 25,
+      "minLevel": 5,
+      "maxLevel": 7
+    },
+    {
+      "formId": 14,
+      "weight": 10,
+      "minLevel": 5,
+      "maxLevel": 7
+    },
+    {
+      "formId": 21,
+      "weight": 10,
+      "minLevel": 5,
+      "maxLevel": 7
+    },
+    {
+      "formId": 18,
+      "weight": 10,
+      "minLevel": 5,
+      "maxLevel": 7
+    },
+    {
+      "formId": 13,
+      "weight": 8,
+      "minLevel": 6,
+      "maxLevel": 8
+    },
+    {
+      "formId": 23,
+      "weight": 2,
+      "minLevel": 7,
+      "maxLevel": 9
+    }
+  ],
+  "ignis_volcano_lava": [
+    {
+      "formId": 11,
+      "weight": 35,
+      "minLevel": 6,
+      "maxLevel": 8
+    },
+    {
+      "formId": 12,
+      "weight": 35,
+      "minLevel": 6,
+      "maxLevel": 8
+    },
+    {
+      "formId": 13,
+      "weight": 20,
+      "minLevel": 7,
+      "maxLevel": 9
+    },
+    {
+      "formId": 34,
+      "weight": 12,
+      "minLevel": 9,
+      "maxLevel": 11
+    },
+    {
+      "formId": 36,
+      "weight": 12,
+      "minLevel": 9,
+      "maxLevel": 11
+    },
+    {
+      "formId": 38,
+      "weight": 8,
+      "minLevel": 10,
+      "maxLevel": 12
+    },
+    {
+      "formId": 39,
+      "weight": 3,
+      "minLevel": 12,
+      "maxLevel": 14
+    }
+  ]
+}
