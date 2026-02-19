@@ -1,0 +1,59 @@
+{
+  "id": "aquaria_lake",
+  "name": "미르 호수",
+  "regionId": "aquaria",
+  "width": 20,
+  "height": 15,
+  "tiles": [
+    "####################",
+    "EGRRRRGGGGGGGGGGGGG#",
+    "#GRRRRGGGGWWWWGGGGG#",
+    "#GGGGGGGGGWWWWGGGGG#",
+    "#GGGGGGGGGWWWWGGGGG#",
+    "#GGGGGGGGGWWWWGGGGG#",
+    "#GGGGGGGGGWWWWGGGGG#",
+    "#GGGGGGGGGGWWGGGGGG#",
+    "#GGGGGGGGGGWWGGGGGG#",
+    "#GGGGGGGGGGGGGGGGGG#",
+    "#GGGTTTGGGG....GGGG#",
+    "#GGGTTTGGGG....GGGG#",
+    "#GGGGGGGGGG....GGGG#",
+    "#GGGGGGGGGGGGGGGGGE#",
+    "####################"
+  ],
+  "start": {
+    "x": 1,
+    "y": 1
+  },
+  "music": "lake",
+  "exits": [
+    {
+      "x": 0,
+      "y": 1,
+      "toMap": "aquaria_route1",
+      "toX": 17,
+      "toY": 1
+    },
+    {
+      "x": 18,
+      "y": 13,
+      "toMap": "ignis_volcano",
+      "toX": 1,
+      "toY": 1
+    }
+  ],
+  "encounters": {
+    "GRASS": {
+      "rate": 0.1,
+      "tableId": "aquaria_lake_grass"
+    },
+    "TREE": {
+      "rate": 0.5,
+      "tableId": "aquaria_lake_tree"
+    },
+    "WATER": {
+      "rate": 0.75,
+      "tableId": "aquaria_lake_water"
+    }
+  }
+}

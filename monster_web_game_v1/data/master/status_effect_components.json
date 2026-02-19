@@ -1,0 +1,125 @@
+[
+  {
+    "component_id": 1,
+    "status_id": 1,
+    "seq": 1,
+    "trigger_id": 5,
+    "effect_type": "DAMAGE_TAKEN_MULT",
+    "stat": null,
+    "value": 0.2,
+    "condition_json": {
+      "skill_element_id": 5
+    },
+    "notes": "번개 속성 피해 추가로 20% 증가"
+  },
+  {
+    "component_id": 2,
+    "status_id": 2,
+    "seq": 1,
+    "trigger_id": 6,
+    "effect_type": "DOT_MAXHP_RATIO",
+    "stat": null,
+    "value": 0.05,
+    "condition_json": null,
+    "notes": "턴 시작/틱마다 최대 HP의 5% 지속 피해"
+  },
+  {
+    "component_id": 3,
+    "status_id": 3,
+    "seq": 1,
+    "trigger_id": 6,
+    "effect_type": "DOT_MAXHP_RATIO",
+    "stat": null,
+    "value": 0.04,
+    "condition_json": null,
+    "notes": "턴 시작/틱마다 최대 HP의 4% 지속 피해"
+  },
+  {
+    "component_id": 4,
+    "status_id": 4,
+    "seq": 1,
+    "trigger_id": 9,
+    "effect_type": "SKIP_TURN_CHANCE",
+    "stat": null,
+    "value": 0.25,
+    "condition_json": null,
+    "notes": "행동 시도 시 25% 확률로 행동 불가"
+  },
+  {
+    "component_id": 5,
+    "status_id": 5,
+    "seq": 1,
+    "trigger_id": 10,
+    "effect_type": "ACC_MOD",
+    "stat": "ACC",
+    "value": -0.2,
+    "condition_json": null,
+    "notes": "명중 -20%"
+  },
+  {
+    "component_id": 6,
+    "status_id": 6,
+    "seq": 1,
+    "trigger_id": 11,
+    "effect_type": "STAT_MOD",
+    "stat": "ATK",
+    "value": -0.15,
+    "condition_json": null,
+    "notes": "공격력 -15%"
+  },
+  {
+    "component_id": 7,
+    "status_id": 6,
+    "seq": 2,
+    "trigger_id": 9,
+    "effect_type": "SKIP_TURN_CHANCE",
+    "stat": null,
+    "value": 0.1,
+    "condition_json": null,
+    "notes": "행동 시도 시 10% 확률로 행동 불가"
+  },
+  {
+    "component_id": 8,
+    "status_id": 7,
+    "seq": 1,
+    "trigger_id": 11,
+    "effect_type": "STAT_MOD",
+    "stat": "SPD",
+    "value": -0.3,
+    "condition_json": null,
+    "notes": "속도 -30%"
+  },
+  {
+    "component_id": 9,
+    "status_id": 9,
+    "seq": 1,
+    "trigger_id": 6,
+    "effect_type": "HEAL_MAXHP_RATIO",
+    "stat": null,
+    "value": 0.06,
+    "condition_json": null,
+    "notes": "턴 종료/틱마다 최대 HP의 6% 회복"
+  },
+  {
+    "component_id": 10,
+    "status_id": 10,
+    "seq": 1,
+    "trigger_id": 5,
+    "effect_type": "DAMAGE_TAKEN_MULT",
+    "stat": null,
+    "value": 0.15,
+    "condition_json": null,
+    "notes": "받는 피해 +15%"
+  },
+  {
+    "component_id": 11,
+    "status_id": 8,
+    "seq": 1,
+    "trigger_id": 5,
+    "effect_type": "SHIELD_ABSORB",
+    "stat": null,
+    "value": null,
+    "condition_json": null,
+    "notes": "보호막 수치가 남아있다면 피해를 우선 흡수"
+  }
+]
